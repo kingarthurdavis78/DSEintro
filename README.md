@@ -16,6 +16,7 @@ Favorite Classes in Undergrad:
     This gave me a solid mathematical foundation. My favorite topics were linear algebra, contraction mappings, convex analysis, and fourier analysis.
 
 This video is the result of [this code.](quantum-visual.ipynb)
+It demonstrates how quantum states are represented mathematically and how the measurement process works in quantum mechanics. 
 
 https://github.com/user-attachments/assets/2de526e0-8e26-49b1-839d-a83cef26605f
 
