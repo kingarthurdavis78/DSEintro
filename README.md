@@ -15,7 +15,7 @@ Favorite Classes in Undergrad:
 5. MATH 344: Mathematical Analysis
     This gave me a solid mathematical foundation. My favorite topics were linear algebra, contraction mappings, convex analysis, and fourier analysis.
 
-This video is the result of [text](quantum-visual.ipynb)
+This video is the result of [this code.](quantum-visual.ipynb)
 
 https://github.com/user-attachments/assets/2de526e0-8e26-49b1-839d-a83cef26605f
 
